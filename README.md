@@ -6,7 +6,7 @@ I'm working on some ReactJS components that you can check here :)
 
 If you're interesed I also have a mobile application based on React Native that let's you organise soccer games with your friends called Mejengapp available in both Appstore and Playstore
 
-- [IOS](https://apps.apple.com/us/app/mejengapp/id1479790993)
+- [iOS](https://apps.apple.com/us/app/mejengapp/id1479790993)
 - [Android](https://play.google.com/store/apps/details?id=net.jciccio.mejengapp)
 
 ## 📫 Places you can find me at:
