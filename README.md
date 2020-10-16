@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm Jose, a Fullstack and Game Developer.
+I'm Jose, a Fullstack Eng, Game Developer and teacher.
+
+
+I have a Udemy course in Spanish to teach Object Oriented Programming in Python: https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=25COUPON
 
 I'm working on some ReactJS components that you can check here :)
 
