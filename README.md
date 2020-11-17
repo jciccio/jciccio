@@ -3,19 +3,20 @@
 I'm Jose, a Fullstack Eng, Game Developer and teacher.
 
 
-I have a Udemy course in Spanish to teach Object Oriented Programming in Python: https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON24
+I have a Udemy course in Spanish to teach Object Oriented Programming in Python: <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="32" /></a>
 
 I'm working on some ReactJS components that you can check here :)
 
 If you're interesed I also have a mobile application based on React Native that let's you organise soccer games with your friends called Mejengapp available in both Appstore and Playstore
 
-- [iOS](https://apps.apple.com/us/app/mejengapp/id1479790993)
-- [Android](https://play.google.com/store/apps/details?id=net.jciccio.mejengapp)
+<a href="https://apps.apple.com/us/app/mejengapp/id1479790993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/appstore.svg" alt="AppStore" height="24" width="36" /></a>
+<a href="https://play.google.com/store/apps/details?id=net.jciccio.mejengapp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googleplay.svg" alt="Playstore" height="24" width="36" /></a>
+
 
 ## 📫 Places you can find me at:
 
-- [Twitter](https://twitter.com/joseacco12)
-- [Linkedin](https://www.linkedin.com/in/jciccio/)
+<a href="https://twitter.com/joseacco12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joseacco12" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/jciccio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jciccio" height="20" width="30" /></a>
 
 
 
