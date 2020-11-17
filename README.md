@@ -3,7 +3,7 @@
 I'm Jose, a Fullstack Eng, Game Developer and teacher.
 
 
-I have a Udemy course in Spanish to teach Object Oriented Programming in Python: <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="32" /></a>
+I have a Udemy course in Spanish to teach Object Oriented Programming in Python: <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
 
 I'm working on some ReactJS components that you can check here :)
 
@@ -15,8 +15,8 @@ If you're interesed I also have a mobile application based on React Native that 
 
 ## 📫 Places you can find me at:
 
-<a href="https://twitter.com/joseacco12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joseacco12" height="20" width="30" /></a>
-<a href="https://www.linkedin.com/in/jciccio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jciccio" height="20" width="30" /></a>
+<a href="https://twitter.com/joseacco12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joseacco12" height="24" width="36" /></a>
+<a href="https://www.linkedin.com/in/jciccio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jciccio" height="24" width="36" /></a>
 
 
 
