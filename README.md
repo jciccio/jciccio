@@ -5,7 +5,7 @@ I'm Jose, a Fullstack Eng, Game Developer and teacher.
 
 I have a Udemy course in Spanish to teach Object Oriented Programming in Python: <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
 
-You can use the code: COUPON1499
+You can use the code: COUPON1499 for a discount
 
 I'm working on some ReactJS components that you can check here :)
 
