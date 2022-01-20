@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-I'm Jose, a Fullstack Eng, Game Developer and teacher.
+I'm Jose, a Fullstack Eng, Manager, Game Developer and Teacher.
 
 
-I have a Udemy course in Spanish to teach Object Oriented Programming in Python: <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
+I have two Udemy courses in Spanish:
 
-You can use the code: COUPON1499 for a discount
+- Object Oriented Programming in Python (Python 3, Programación Orientada a Objetos haciendo juegos): <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
+
+- One dimensional Data Structures (Estructuras de datos: listas dinámicas y punteros con Java): <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?referralCode=77B2A2FA3ACED1C01215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
+
+
 
 I'm working on some ReactJS components that you can check here :)
 
