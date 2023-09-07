@@ -33,6 +33,7 @@ I'm working on some ReactJS components that you can check here in my repos :)
 
 <a href="https://twitter.com/joseacco12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/twitter.svg" alt="joseacco12" height="24" width="36" /></a>
 <a href="https://www.linkedin.com/in/jciccio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/linkedin.svg" alt="jciccio" height="24" width="36" /></a>
+<a href="https://www.twitch.tv/joseaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/twitch.svg" alt="jciccio" height="24" width="36" /></a>
 
 
 
