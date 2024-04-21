@@ -36,7 +36,7 @@ I'm working on some ReactJS components that you can check here in my repos :)
 
 ![npm](https://img.shields.io/npm/dm/file-uploader-js.svg)
 ![npm](https://img.shields.io/npm/v/file-uploader-js.svg)
-[Reacr JS File Uploader](https://github.com/jciccio/file-uploader-js/)  
+[React JS File Uploader](https://github.com/jciccio/file-uploader-js/)  
 
 #### 4. Articles
 
