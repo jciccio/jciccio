@@ -20,23 +20,23 @@ I have a mobile application based on React Native that let's you organise soccer
 I'm working on some ReactJS components that you can check here in my repos :)
 
 
-![npm](https://img.shields.io/npm/dm/react-js-banner) ![npm](https://img.shields.io/npm/v/react-js-banner.svg) [react-js-banner](https://github.com/jciccio/react-js-banner/)  
+![npm](https://img.shields.io/npm/dm/react-js-banner) ![npm](https://img.shields.io/npm/v/react-js-banner.svg) [React JS Banner](https://github.com/jciccio/react-js-banner/)  
 
 ![npm](https://img.shields.io/npm/dm/react-js-search.svg)
 ![npm](https://img.shields.io/npm/v/react-js-search.svg)
-[react-js-search](https://github.com/jciccio/react-js-search/)  
+[React JS Search](https://github.com/jciccio/react-js-search/)  
 
 ![npm](https://img.shields.io/npm/dm/react-js-paginator.svg)
 ![npm](https://img.shields.io/npm/v/react-js-paginator.svg)
-[react-js-paginator](https://github.com/jciccio/react-js-paginator/)  
+[React JS Paginator](https://github.com/jciccio/react-js-paginator/)  
 
 ![npm](https://img.shields.io/npm/dm/react-js-table-with-csv-dl.svg)
 ![npm](https://img.shields.io/npm/v/react-js-table-with-csv-dl.svg)
-[react-js-paginator](https://github.com/jciccio/react-js-table-with-csv-dl/)  
+[React JS Table with CSV Download](https://github.com/jciccio/react-js-table-with-csv-dl/)  
 
 ![npm](https://img.shields.io/npm/dm/file-uploader-js.svg)
 ![npm](https://img.shields.io/npm/v/file-uploader-js.svg)
-[react-js-paginator](https://github.com/jciccio/file-uploader-js/)  
+[Reacr JS File Uploader](https://github.com/jciccio/file-uploader-js/)  
 
 #### 4. Articles
 
