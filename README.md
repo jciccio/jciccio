@@ -51,7 +51,17 @@ Some of my articles are:
 - Automation & Scaling in Engineering Leadership and Management [Medium](https://medium.com/@jciccio/automation-scaling-in-engineering-leadership-andmanagement-9ca0458ef4fb)
 - Creating and Publishing in NPM a React Component in 2024 [Medium](https://medium.com/@jciccio/creating-and-publishing-an-npm-react-component-in-2024-e4d24c7f54a9)
 
+#### Wacky Drivers Dev Logs
 
+English
+
+- Devlog # 1  [Medium](https://medium.com/p/7d8e54d04476)
+- Devlog # 2  [Medium](https://medium.com/p/966a1ca0f0e9)
+
+Spanish
+- Devlog # 1  [Medium](https://medium.com/@jciccio/wacky-drivers-devlog-1-9af5ad3410eb)
+- Devlog # 2  [Medium](https://medium.com/@jciccio/wacky-drivers-devlog-2-carros-con-distintos-stats-6e88396bd374)
+  
 #### 5. Teaching; I have three Udemy courses in Spanish:
 
    - [Python 3, Programación Orientada a Objetos haciendo juegos:](https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON1499) <a href="https://www.udemy.com/course/programacion-orientada-a-objetos-haciendo-juegos-con-python/?couponCode=COUPON1499" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/udemy.svg" alt="Udemy" height="24" width="36" /></a>
