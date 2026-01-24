@@ -8,7 +8,9 @@ Some of my projects are:
 
    - Wacky Drivers on iOS  [Appstore](https://apps.apple.com/ms/app/wacky-drivers/id1625610738) <a href="https://apps.apple.com/ms/app/wacky-drivers/id1625610738" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/appstore.svg" alt="AppStore" height="24" width="36" /></a>
    - Wacky Drivers on Android - [PlayStore](https://play.google.com/store/apps/details?id=net.jciccio.wackyracers) <a href="[https://apps.apple.com/ms/app/wacky-drivers/id1625610738](https://play.google.com/store/apps/details?id=net.jciccio.wackyracers)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/googleplay.svg" alt="AppStore" height="24" width="36" /></a> 
-   - Wacky Drivers on Steam - _coming soon_
+   - Wacky Drivers on Steam - [Steam](https://store.steampowered.com/app/4026950/Wacky_Drivers)<a href="[[https://apps.apple.com/ms/app/wacky-drivers/id1625610738](https://store.steampowered.com/app/4026950/Wacky_Drivers)]https://store.steampowered.com/app/4026950/Wacky_Drivers)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/steam.svg" alt="Steam" height="24" width="36" /></a>
+
+
   
      ![alt text](https://github.com/jciccio/jciccio/blob/master/wackydrivers.PNG)
 
